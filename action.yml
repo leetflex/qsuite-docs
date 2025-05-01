@@ -1,0 +1,2 @@
+- name: Github Release Changelog Generator
+  uses: jaywcjlove/changelog-generator@v2.2.2
