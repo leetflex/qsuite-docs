@@ -1,4 +1,4 @@
-# qsuite-docs
+# QSuite Docs
 A modern and privacy-respecting alternative to Google Docs.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/leetflex/qsuite-docs)
